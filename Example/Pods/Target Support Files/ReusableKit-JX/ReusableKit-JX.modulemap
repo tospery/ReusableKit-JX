@@ -1,0 +1,6 @@
+framework module ReusableKit_JX {
+  umbrella header "ReusableKit-JX-umbrella.h"
+
+  export *
+  module * { export * }
+}

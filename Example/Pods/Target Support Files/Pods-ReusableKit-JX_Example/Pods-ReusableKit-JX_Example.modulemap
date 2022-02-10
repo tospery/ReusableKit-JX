@@ -1,0 +1,6 @@
+framework module Pods_ReusableKit_JX_Example {
+  umbrella header "Pods-ReusableKit-JX_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

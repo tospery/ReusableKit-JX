@@ -1,0 +1,8 @@
+use_frameworks!
+
+platform :ios, '11.0'
+
+target 'ReusableKit-JX_Example' do
+  pod 'ReusableKit-JX/RxSwift', :path => '../'
+
+end
